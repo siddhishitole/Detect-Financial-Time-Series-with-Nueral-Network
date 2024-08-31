@@ -96,14 +96,6 @@ Serveral state of the art techniques are applied
 2. Deep Feature Synthesis will be used for auto feature engineering.
 3. Quantopian zipline will be used for backtesting the model.
 
-
-## How to use Quandl
-If you want to train your neural network on more data, feel free to load the data directly from Quandl.
-You should be able to get the historic price data of a particular stock after login. 
-Use Export > Python > api key and insert the api key to your model.
-https://www.quandl.com/databases/WIKIP
-![Alt text](https://github.com/BenjiKCF/Neural-Network-with-Financial-Time-Series-Data/blob/master/Photos/quandl.png)
-
 ## References:
 Bernal, A., Fok, S., & Pidaparthi, R. (2012). Financial Market Time Series Prediction with Recurrent Neural Networks.
 
